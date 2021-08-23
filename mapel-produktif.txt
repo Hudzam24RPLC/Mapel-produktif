@@ -2,5 +2,5 @@ Mata Pelajaran Produktif
 -Simulasi dan Komunikasi Digital
 -Pemrograman Dasar
 -komputer Jaringan Dasar
--Fisika 
 -Dasar Desain Grafis
+-Sistem Komputer
