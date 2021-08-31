@@ -4,4 +4,8 @@ a.Komunikasi Daring Singkron
 b.Komunikasi Daring Asingkron
   -   Email
 c.Github
+  -   Membuat aku
+  -   Membuat repository
+  -   Membuat file baru
+  -   Membuat commit
 d.Git
